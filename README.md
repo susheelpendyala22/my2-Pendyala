@@ -13,3 +13,20 @@ My most favourite cities in rajasthan are
 **Jaipur**
 
 **Jodhpur**
+
+*** 
+Favorite Holiday Spot
+
+Best spots in Rajasthan are: 
+
+1. Lake Pichola
+2. Amber Palace
+3. Hawa Mahal
+
+
+
+
+
+
+
+
