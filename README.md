@@ -24,11 +24,13 @@ Best spots in Rajasthan are:
 3. Hawa Mahal
 
 ***
-My favorite dishes in Rajasthan are:
+My favorite dishes in Rajasthan are :
 
 + Dal Batti Churma
 + Kachori
 + Mirchi Bada
+
+[To know more about me](MyStats.md)
 
 
 
