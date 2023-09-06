@@ -32,7 +32,14 @@ My favorite dishes in Rajasthan are :
 
 [To know more about me](MyStats.md)
 
-
+*** 
+### The Sports I like are:
+| Name of a sport.    | Reason to recomend it | How many hours to spend     | 
+| :---        |    :----:   |          ---: |
+| Cricket   | Physical Fitness and healthy life style       | 5-6 Hours   |
+| Carroms |  Carroms enhances thinking and strategic planning skills.       | 4-5 hours     |
+| Tennis    | Frequent tennis play helps develop muscle strength and flexibility.      | 4-5 hours  |
+|  Foot Ball   |  Foot Ball helps keep you fit and brings you the health benefits      | 3-4 hours   |
 
 
 
