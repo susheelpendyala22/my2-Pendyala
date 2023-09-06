@@ -15,7 +15,7 @@ My most favourite cities in rajasthan are
 **Jodhpur**
 
 *** 
-Favorite Holiday Spot
+## Favorite Holiday Spot
 
 Best spots in Rajasthan are: 
 
@@ -23,6 +23,12 @@ Best spots in Rajasthan are:
 2. Amber Palace
 3. Hawa Mahal
 
+***
+My favorite dishes in Rajasthan are:
+
++ Dal Batti Churma
++ Kachori
++ Mirchi Bada
 
 
 
